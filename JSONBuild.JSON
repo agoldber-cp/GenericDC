@@ -2,13 +2,13 @@
 	"version": "1.0",
 	"description": "Generic DC Object for Block List",
 	"objects": [
-		{
-			"name": "IPBlockList",
-			"id": "a7f18b60-f22d-4f42-8dc2-050490ecf6dc",
-			"description": "IP Block List",
-			"ranges": [
-				"2.2.2.1"
-			]
-		}
-	]
+					{
+						"name": "IPBlockList",
+						"id": "a7f18b60-f22d-4f42-8dc2-050490ecf6dc",
+						"description": "IP Block List",
+						"ranges": [
+							"2.2.2.1"
+						]
+					}
+				]
 }

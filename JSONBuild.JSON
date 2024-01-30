@@ -6,9 +6,7 @@
       "name": "IPBlockList",
       "id": "a7f18b60-f22d-4f42-8dc2-050490ecf6dc",
       "description": "IP Block List",
-      "ranges": [
-	  "222.222.222.21"
-	  ]
+      "ranges": []
     }
   ]
 }
